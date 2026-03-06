@@ -1,0 +1,2 @@
+# ramblings
+ramblings business thoughts
