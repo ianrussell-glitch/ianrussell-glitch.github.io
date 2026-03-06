@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rambling.metasynapse.cc/'
 languageCode = 'zh-cn'
 title = 'Meta Synapse Rambling'
 theme = 'PaperMod'
