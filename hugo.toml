@@ -26,11 +26,6 @@ theme = 'PaperMod'
     url = "/posts/"
     weight = 10
 
-[[menu.main]]
-    name = "日记"
-    url = "/diary/"
-    weight = 20
-
 # 新增关于作者入口
 [[menu.main]]
     name = "关于"
