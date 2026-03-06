@@ -18,7 +18,7 @@ theme = 'PaperMod'
     ShowBreadCrumbs = true
 
     # 核心隔离代码：告诉首页只显示 content/posts 文件夹里的内容
-    mainSections = ["posts"]
+    # mainSections = ["posts"]
 
 # 配置顶部导航栏菜单
 [[menu.main]]
